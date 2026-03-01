@@ -15,5 +15,5 @@ This repository is the foundation of my technical toolkit. As an BI & Automation
 ---
 
 ## 📑 Repository Contents
-* [📂 SQL Guide](./SQL%20Master%20Notes.md): My digital "Encyclopedia."
+* [📂 SQL Guide](./SQL-Master-Notes.md): My digital "Encyclopedia."
 * [✍️ Handwritten Notes](./Handwritten%20SQL%20Notes/): Scans of my logic-mapping process.
